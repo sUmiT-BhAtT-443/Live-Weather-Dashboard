@@ -63,18 +63,30 @@ Interact with filters, cards, visuals
 ## 🚀 Features
 
 ✔️ Clean UI with gradient background
+
 ✔️ Daily forecast visualization
+
 ✔️ AQI gauge design
+
+
+
 ✔️ Interactive city cards
+
 ✔️ Auto-updated date & time
+
 ✔️ Chance of rain bar chart
+
 ✔️ Easy to customize for multiple cities
 
 ## 🎯 Future Improvements
 
+
 ⏱️ Add historical weather data
+
 🌍 Add map-based weather layers
+
 🔄 Auto-refresh using scheduled refresh (API + gateway required)
+
 📱 Create a dedicated mobile layout
 
 ✨ Author
