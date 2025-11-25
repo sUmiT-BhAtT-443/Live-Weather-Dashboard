@@ -37,10 +37,16 @@ All data cleaning, transformation, and modeling is done in Power Query, and the 
 The dashboard layout is designed with bold colors, smooth gradients, and card-based UI for a clean and professional look.
 
 ## 🛠️ Tools & Technologies
-Purpose	Tool
 Data Source	🌐 WeatherAPI
-Cleaning / ETL	⚙️ Power Query (M Language)
-Dashboard Design	📊 Power BI Desktop
+
+Cleaning / ETL
+
+⚙️ Power Query (M Language)
+
+Dashboard Design	
+
+📊 Power BI Desktop
+
 File Format	.pbix
 🔗 Data Source
 
@@ -50,7 +56,8 @@ Data fetched from: https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q
 ## ⚠️ The WeatherAPI key used in this project was a 12-day trial, so refresh will not work after expiry unless a new key is added.
 
 
-▶️ How to Open the Dashboard
+
+## ▶️ How to Open the Dashboard
 
 Download or clone this repository
 
