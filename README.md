@@ -3,29 +3,20 @@
 A fully interactive Weather Dashboard built in Power BI, using live data fetched from WeatherAPI (12-day trial).
 All data cleaning, transformation, and modeling is done in Power Query, and the final dashboard visualizes temperature, humidity, AQI, chances of rain, forecast trends, and more — in a clean and modern UI.
 
-📸 Dashboard Preview
-<table>
-  <tr>
-    <td align="center">
-      <a href="./screenshots/Goa_Weather.png">
-        <img src="Goa_Weather.png" alt="Goa" width="380"/>
-      </a>
-      <p>Goa — Summary view</p>
-    </td>
-    <td align="center">
-      <a href="./screenshots/Chandigarh_Weather.png">
-        <img src="Chandigarh_Weather.png" alt="Chandigarh" width="380"/>
-      </a>
-      <p>Chandigarh — Full page</p>
-    </td>
-    <td align="center">
-      <a href="./screenshots/Noida_Weather.png">
-        <img src="Noida_Weather.png" alt="Noida" width="380"/>
-      </a>
-      <p>Noida — Card view</p>
-    </td>
-  </tr>
-</table>
+📸 Dashboard Images:
+<p align="center">
+  <img src="Goa_Weather.png" alt="Goa Weather" width="900"/>
+</p>
+
+<p align="center">
+  <img src="Chandigarh_Weather.png" alt="Chandigarh Weather" width="900"/>
+</p>
+
+<p align="center">
+  <img src="Noida_Weather.png" alt="Noida Weather" width="900"/>
+</p>
+
+
 📌 Project Overview
 
 This dashboard displays:
