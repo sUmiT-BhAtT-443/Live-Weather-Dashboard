@@ -1,9 +1,10 @@
-🌦️ Live Weather Dashboard (Power BI)
+## 🌦️ Live Weather Dashboard (Power BI)
 
 A fully interactive Weather Dashboard built in Power BI, using live data fetched from WeatherAPI (12-day trial).
 All data cleaning, transformation, and modeling is done in Power Query, and the final dashboard visualizes temperature, humidity, AQI, chances of rain, forecast trends, and more — in a clean and modern UI.
 
-📸 Dashboard Screenshots
+## 📸 Dashboard Screenshots
+
 Goa
 <p align="center"> <img src="Goa_Weather.png" alt="Goa Weather" width="750"/> </p>
 Chandigarh
@@ -12,7 +13,7 @@ Noida
 <p align="center"> <img src="Noida_Weather.png" alt="Noida Weather" width="750"/> </p>
 📌 Project Overview
 
-This dashboard displays:
+## This dashboard displays:
 
 🌡️ Current Temperature & Feels Like
 
@@ -32,7 +33,7 @@ This dashboard displays:
 
 The dashboard layout is designed with bold colors, smooth gradients, and card-based UI for a clean and professional look.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 Purpose	Tool
 Data Source	🌐 WeatherAPI
 Cleaning / ETL	⚙️ Power Query (M Language)
@@ -47,7 +48,7 @@ https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=cityName
 
 ⚠️ The WeatherAPI key used in this project was a 12-day trial, so refresh will not work after expiry unless a new key is added.
 
-📂 Repository Structure
+## 📂 Repository Structure
 Live-Weather-Dashboard/
 │── Weather dashboard.pbix
 │── Goa_Weather.png
@@ -65,7 +66,7 @@ Interact with filters, cards, visuals
 
 (Optional) Add your own WeatherAPI key in Power Query to refresh data
 
-🚀 Features
+## 🚀 Features
 
 ✔️ Clean UI with gradient background
 ✔️ Daily forecast visualization
@@ -75,7 +76,7 @@ Interact with filters, cards, visuals
 ✔️ Chance of rain bar chart
 ✔️ Easy to customize for multiple cities
 
-🎯 Future Improvements
+## 🎯 Future Improvements
 
 ⏱️ Add historical weather data
 🌍 Add map-based weather layers
