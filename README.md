@@ -13,9 +13,10 @@ All data cleaning, transformation, and modeling is done in Power Query, and the 
 
 ##  Noida
 <p align="center"> <img src="Noida_Weather.png" alt="Noida Weather" width="750"/> </p>
-📌 Project Overview
 
-## This dashboard displays:
+## 📌 Project Overview
+
+ This dashboard displays:
 
 🌡️ Current Temperature & Feels Like
 
