@@ -5,11 +5,11 @@ All data cleaning, transformation, and modeling is done in Power Query, and the 
 
 ## 📸 Dashboard Screenshots
 
-Goa
+## Goa
 <p align="center"> <img src="Goa_Weather.png" alt="Goa Weather" width="750"/> </p>
-Chandigarh
+## Chandigarh
 <p align="center"> <img src="Chandigarh_Weather.png" alt="Chandigarh Weather" width="750"/> </p>
-Noida
+## Noida
 <p align="center"> <img src="Noida_Weather.png" alt="Noida Weather" width="750"/> </p>
 📌 Project Overview
 
