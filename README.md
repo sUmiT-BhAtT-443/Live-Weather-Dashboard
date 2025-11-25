@@ -48,7 +48,7 @@ https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=cityName
 
 ⚠️ The WeatherAPI key used in this project was a 12-day trial, so refresh will not work after expiry unless a new key is added.
 
-## 📂 Repository Structure
+📂 Repository Structure
 Live-Weather-Dashboard/
 │── Weather dashboard.pbix
 │── Goa_Weather.png
