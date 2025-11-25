@@ -7,17 +7,17 @@ All data cleaning, transformation, and modeling is done in Power Query, and the 
 ## 📸 Dashboard Screenshots
 
 ### Goa — Summary View
-<img src="./screenshots/Goa_Weather.png" alt="Goa Weather" width="900"/>
+<img src="Goa_Weather.png" alt="Goa Weather" width="900"/>
 
 ---
 
 ### Chandigarh — Full Page
-<img src="./screenshots/Chandigarh_Weather.png" alt="Chandigarh Weather" width="900"/>
+<img src="Chandigarh_Weather.png" alt="Chandigarh Weather" width="900"/>
 
 ---
 
 ### Noida — Card View
-<img src="./screenshots/Noida_Weather.png" alt="Noida Weather" width="900"/>
+<img src="Noida_Weather.png" alt="Noida Weather" width="900"/>
 
 
 
